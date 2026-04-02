@@ -1,0 +1,26 @@
+Futbol,Karim Mostafa Benzema,Real Madrid,90,80,70,95,0,ClutchPlayer
+Futbol,Cristiano Ronaldo,Al Nassr,85,88,75,90,0,Finisher
+Futbol,Arda Turan,Galatasaray,80,85,78,88,0,Defender
+Futbol,Lionel Messi,Inter Miami,95,92,88,93,0,Legend
+Futbol,Kylian Mbappe,PSG,92,85,90,91,0,Finisher
+Futbol,Erling Haaland,Man City,94,78,89,92,0,ClutchPlayer
+Futbol,Kevin De Bruyne,Man City,88,93,85,90,0,Captain
+Futbol,Luka Modric,Real Madrid,85,90,84,89,0,Veteran
+
+Basketbol,Cedi Osman,Cavs,95,90,85,92,0,Finisher
+Basketbol,Stephen Curry,Warriors,88,85,80,90,0,ClutchPlayer
+Basketbol,Onuralp Bitim,Efes,87,82,79,89,0,Legend
+Basketbol,LeBron James,Lakers,92,90,88,94,0,Legend
+Basketbol,Kevin Durant,Suns,90,88,87,91,0,Finisher
+Basketbol,Giannis Antetokounmpo,Bucks,91,85,89,93,0,ClutchPlayer
+Basketbol,Nikola Jokic,Nuggets,88,92,86,92,0,Captain
+Basketbol,Luka Doncic,Mavericks,89,91,87,90,0,Veteran
+
+Voleybol,Eda Erdem,Fenerbahce,93,89,84,91,0,Defender
+Voleybol,Zehra Güneş,Vakifbank,85,83,78,88,0,Veteran
+Voleybol,İlkin Aydın,Galatasaray,82,80,75,85,0,Captain
+Voleybol,Paola Egonu,Italy,94,90,92,93,0,Finisher
+Voleybol,Gabi Guimaraes,Brazil,88,87,86,90,0,Captain
+Voleybol,Tijana Boskovic,Serbia,93,89,91,92,0,Legend
+Voleybol,Wilfredo Leon,Poland,95,88,94,93,0,ClutchPlayer
+Voleybol,Earvin Ngapeth,France,89,86,88,90,0,Defender
